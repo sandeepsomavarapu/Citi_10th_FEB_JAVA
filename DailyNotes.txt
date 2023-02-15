@@ -1,0 +1,100 @@
+
+JAVA:
+========
+SANDEEP TRAINER 8394834934839
+
+VARIABLE		
+		
+		class Welcome
+		{
+		p s v main(String args[])
+		{
+			String orgName ="CITI";
+			orgName="TCS";
+			
+			String args1[]={"CITI","TCS","CAPGEMINI","123"};
+			//INDEX 0
+			String values=new String[5];//0,1,2,3,4,5//AIOE
+			
+		}
+		
+		}
+		
+		
+		
+ARRAY
+		1)fixed in size 
+		2)can hold only homogeneous data 
+		3)no utility methods
+
+COLLETIONS framework
+
+		1)not fixed in size 			ArrayList-->10  11,(CC*3/2)+1  16
+		2)can hold  homogeneous and heterogeneous  data 		HashMap -16		TS,TM
+		3)lots of utility methods
+
+
+1.5 Generics
+
+
+List:
+======
+
+	1)duplicates are allowed 
+	2)insertion order is preserved 
+
+	java.util
+
+
+JAVA8:
+======
+python    1993  day-1		print("")
+Functional Programming 2014
+
+
+java8:
+======
+1)Lamda Expressions
+2)Functional Interface
+3)Default and static methods
+4)Custom FI
+5):: operator(method reference/constructor reference) 
+6)Date and time api
+7)stream api
+8)Optional class
+			
+		Lamda Expressions:
+		=================
+				nameless functions/anonymous functions
+				
+				no need of return type
+				no method name
+				no access modifier
+				no parameter DT
+				no {} braces
+				no return keyword
+				
+				public int addOfTwo(int a, int b) {
+				return a + b;
+				}	
+		
+		With JAVA8
+		
+				  (a,b)->a + b;
+					
+				public void printHello(String name ) {
+				System.out.println("welcome to java8 :"+name);
+				}	
+				
+				
+				name=>sop("welcome to java8 :"+name)
+				
+				public int cubeIt(int n) {
+				return n*n*n;
+				}		
+				
+				n->n*n*n
+				
+				
+		
+
